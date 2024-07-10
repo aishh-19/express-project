@@ -1,0 +1,7 @@
+{
+    "todo" : [{"id": 1, "task": "Complete project A", "status": false } ,
+    { "id" : 2 , "task" : "cry you are depressed" , "status" : true} ,
+    {"id" : 3  , "task" : "doing nothing" , "status" : false} ,
+    {"id" : 4  , "task" : "doing nothing but complain" , "status" : false} 
+]
+}

@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  },
+  "name": "express-project",
+  "description": "express project",
+  "version": "1.0.0",
+  "main": "express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
+    "express": "nodemon expressserver.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
